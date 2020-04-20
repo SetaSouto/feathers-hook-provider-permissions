@@ -1,0 +1,29 @@
+{
+  "name": "feathers-hook-provider-permissions",
+  "version": "0.1.0",
+  "description": "A feathers hook to provide permissions per provider, service and method.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SetaSouto/feathers-hook-provider-permissions.git"
+  },
+  "keywords": [
+    "feathers",
+    "hook",
+    "provider",
+    "permissions"
+  ],
+  "author": "Fabián Souto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SetaSouto/feathers-hook-provider-permissions/issues"
+  },
+  "homepage": "https://github.com/SetaSouto/feathers-hook-provider-permissions#readme",
+  "dependencies": {
+    "@feathersjs/errors": "^4.5.3",
+    "winston-namespace": "^1.0.0"
+  }
+}
